@@ -13,7 +13,7 @@ html, body {
     font-size: 4em;
   }
   
-  #changer {
+  #change {
     background: rgba(178, 223, 251, .3);
     cursor: pointer;
     border-radius: 500px;
